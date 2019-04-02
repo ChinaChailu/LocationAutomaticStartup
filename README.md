@@ -135,8 +135,8 @@ Automatic Startup  | True  			  | True           | True
 `耗电量`: 测试 19.2⼩小时 耗电量 8% 
  
  
- [调研资料料](https://wigl.github.io/2015/08/28/ios_location_introduction/)
+ [调研资料](https://wigl.github.io/2015/08/28/ios_location_introduction/)
  
-[官⽅方API介绍](https://developer.apple.com/documentation/corelocation/cllocationmanager/1423531-startmonitoringsignificantlocati?language=objc)
+[官方API介绍](https://developer.apple.com/documentation/corelocation/cllocationmanager/1423531-startmonitoringsignificantlocati?language=objc)
     
  
